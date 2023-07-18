@@ -15,7 +15,7 @@
 <AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: light-grey;" stylesheets="@../Styles/login.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.konadulord.Controllers.LoginController">
    <VBox prefHeight="400.0" prefWidth="200.0" styleClass="login-logo-container" stylesheets="@../Styles/login.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
       <FontAwesomeIconView glyphName="HOME" size="30" />
-      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="NetMart">
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Student Mart">
          <font>
             <Font name="Sawasdee Bold" size="13.0" />
          </font>
