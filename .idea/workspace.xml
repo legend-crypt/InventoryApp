@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="73d65660-f1be-47bb-84ab-ed5bb9c0e954" name="Changes" comment="done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/konadulord/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/konadulord/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.konadulord.App" />
       <module name="konadulord" />
       <extension name="coverage">
@@ -52,11 +51,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.App" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

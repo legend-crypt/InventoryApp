@@ -1,4 +1,4 @@
- module com.example.netmart {
+ module com.example.konadlord {
     requires javafx.controls;
     requires javafx.fxml;
     requires de.jensd.fx.glyphs.fontawesome;
