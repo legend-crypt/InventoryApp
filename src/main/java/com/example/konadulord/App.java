@@ -1,5 +1,5 @@
 package com.example.konadulord;
-# 10905415
+// Konadu Lord Kweku 10905415
 import com.example.konadulord.Models.Model;
 import javafx.application.Application;
 import javafx.stage.Stage;
